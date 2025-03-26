@@ -29,10 +29,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=0xZepeto&show_icons=true&theme=radical" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xZepeto&theme=radical" />
 </p>
-
----
-
-## 📫 Connect with Me
-- Twitter: [@0xZepeto](https://twitter.com/0xZepeto)
-- LinkedIn: [Your LinkedIn](#)
-- Discord: 0xZepeto#1234
